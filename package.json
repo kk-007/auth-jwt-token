@@ -1,0 +1,23 @@
+{
+  "name": "auth-jwt-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kk-007/auth-jwt-token.git"
+  },
+  "author": "Keval Navadiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kk-007/auth-jwt-token/issues"
+  },
+  "homepage": "https://github.com/kk-007/auth-jwt-token#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
